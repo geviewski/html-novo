@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 body{
-    background-color: darkslategray;
+    background-color: rgb(57, 151, 131)
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
 }
@@ -9,13 +9,14 @@ body{
 h1 {
     text-align: center;
     color: darkgray;
-    background-color: black;
+    background-color: rgb(0, 0, 0);
 }
 
 h2 {
-    color: khaki;
+    color: rgb(70, 67, 40);
 }
 
 p{
     text-align: justify;
+    color: rgb(66, 23, 66)
 }
