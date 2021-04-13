@@ -1,0 +1,25 @@
+*{
+    font-family: Arial, Helvetica, sans-serif
+}
+body{
+    background-image: linear-gradient(to bottom, #A5AE9E, #594E36);
+    background-attachment: fixed;
+}
+
+main{
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px #2F2504;
+    width: 650px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin: auto;
+}
+
+h1,h2{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p{
+    text-align: justify;
+}
