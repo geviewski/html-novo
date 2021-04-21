@@ -1,0 +1,29 @@
+body{
+    background-image: linear-gradient(to bottom, #4d01249c ,#823038) ;
+    background-attachment: fixed;
+    font: normal 16px arial, Verdana, serif;
+}
+
+main{
+    background-color: #f0f7f4c7;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px #3C493F;
+    width: 650px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    color: #E5F77D;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align:  justify;
+    text-indent: 30px;
+}
